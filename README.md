@@ -107,7 +107,7 @@ As can be seen it was complete gibberish. After multiple attempts to rectify the
 Loss change from 1.0642 - 0.5725 = 0.4917
 
 <p align="center">
-  <img width='500' height='200' src = images/2nd_baseline.png>
+  <img width='600' height='200' src = images/2nd_baseline.png>
 </p>
 
 As can be seen from this example, the recipes' ingredients begin to repeat. The network does not properly understand the underlying structure, order, and relationship between ingredients yet. The vocab, config, and weight files are available in the data folder for recreation. 
@@ -138,5 +138,5 @@ Thanks you for time and drink responsibly!
 </p>
 
 <p align="center">
-  <img width='600' height='1000' src = images/My_Post2.png>
+  <img width='500' height='1000' src = images/My_Post2.png>
 </p>
